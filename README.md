@@ -29,4 +29,4 @@ Although still novel, promising results have been demonstrated in using VR for e
 
 ## DEMO VIDEO
 
-- (YouTube Link)[https://www.youtube.com/watch?v=MqC-F69E20M&feature=youtu.be]
+- [YouTube Link](https://www.youtube.com/watch?v=MqC-F69E20M&feature=youtu.be)
